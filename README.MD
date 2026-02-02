@@ -49,14 +49,14 @@
 * Maven
 * (Planned) JUnit 5 + Mockito
 
-`#### Project Structure
-src/main/java
-├── app            # Console menus (UI layer)
-├── service        # Business logic & validation
-├── dao            # JDBC data access
-├── model          # Domain models (records & enums)
-├── util           # Helpers (input, selectors, etc.)
-├── config         # DB & DataSource configuration`
+#### Project Structure
+* src/main/java
+* ├── app            # Console menus (UI layer)
+* ├── service        # Business logic & validation
+* ├── dao            # JDBC data access
+* ├── model          # Domain models (records & enums)
+* ├── util           # Helpers (input, selectors, etc.)
+* ├── config         # DB & DataSource configuration
 
 #### How to Run
 ##### Prerequisites
